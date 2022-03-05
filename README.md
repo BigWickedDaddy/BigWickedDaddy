@@ -14,17 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###  
-<details>
-  <summary>
-    <b> :octocat: Some Github Stats </b>
-  </summary>
-  <br>
-  
-![.](https://komarev.com/ghpvc/?username=renett-t&color=CDB4DB&style=flat&label=VISITOR+COUNT)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renett-t&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renett-t&layout=compact&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
